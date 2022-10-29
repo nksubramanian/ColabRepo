@@ -1,0 +1,125 @@
+{
+    "info": {
+        "year": "2021",
+        "version": "1",
+        "description": "Exported from roboflow.ai",
+        "contributor": "",
+        "url": "https://public.roboflow.ai/object-detection/undefined",
+        "date_created": "2021-11-13T19:14:50+00:00"
+    },
+    "licenses": [
+        {
+            "id": 1,
+            "url": "https://creativecommons.org/licenses/by/4.0/",
+            "name": "CC BY 4.0"
+        }
+    ],
+    "categories": [
+        {
+            "id": 0,
+            "name": "new",
+            "supercategory": "none"
+        },
+        {
+            "id": 1,
+            "name": "Army_navy",
+            "supercategory": "new"
+        },
+        {
+            "id": 2,
+            "name": "Bulldog",
+            "supercategory": "new"
+        },
+        {
+            "id": 3,
+            "name": "Castroviejo",
+            "supercategory": "new"
+        },
+        {
+            "id": 4,
+            "name": "Forceps",
+            "supercategory": "new"
+        },
+        {
+            "id": 5,
+            "name": "Frazier",
+            "supercategory": "new"
+        },
+        {
+            "id": 6,
+            "name": "Hemostat",
+            "supercategory": "new"
+        },
+        {
+            "id": 7,
+            "name": "Iris",
+            "supercategory": "new"
+        },
+        {
+            "id": 8,
+            "name": "Mayo_metz",
+            "supercategory": "new"
+        },
+        {
+            "id": 9,
+            "name": "Needle",
+            "supercategory": "new"
+        },
+        {
+            "id": 10,
+            "name": "Potts",
+            "supercategory": "new"
+        },
+        {
+            "id": 11,
+            "name": "Richardson",
+            "supercategory": "new"
+        },
+        {
+            "id": 12,
+            "name": "Scalpel",
+            "supercategory": "new"
+        },
+        {
+            "id": 13,
+            "name": "Towel_clip",
+            "supercategory": "new"
+        },
+        {
+            "id": 14,
+            "name": "Weitlaner",
+            "supercategory": "new"
+        },
+        {
+            "id": 15,
+            "name": "Yankauer",
+            "supercategory": "new"
+        }
+    ],
+    "images": [
+        {
+            "id": 0,
+            "license": 1,
+            "file_name": "F.jpg",
+            "height": 225,
+            "width": 300,
+            "date_captured": "2021-11-13T19:14:50+00:00"
+        }
+    ],
+    "annotations": [
+        {
+            "id": 0,
+            "image_id": 0,
+            "category_id": 10,
+            "bbox": [
+                20,
+                21,
+                264,
+                156
+            ],
+            "area": 41184,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ]
+}
